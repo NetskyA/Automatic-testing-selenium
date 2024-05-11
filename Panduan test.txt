@@ -1,0 +1,14 @@
+Pada program automatic testing terdapat beberapa penyesuaian element atau data pada beberapa aktor karena data tersebut berubah-ubah(statis). Selain itu terdapat beberapa fitur yang tidak kami lakukan automatic testing karena memiliki fitur yang sama di aktor sebelumnya dan beberapa fitur tidak dilakukan automatic testing karena prosedur dan requirements sistem yang telah ada menyebabkan automatic testing tidak dapat dilakukan pada fitur tersebut.
+Disarankan untuk memahami alur penggunaan automatic testing pada program website ini sebelum melakukan testing.
+
+Peraturan sebelum melakukan test website project
+1. Buka link ini https://dcbas.000webhostapp.com/
+2. Login email firdauszakaria@gmail.com
+3. Password 12345
+4. Buka menu Toko (Copy nama toko, bebas)
+5. Buka menu Order (Paste nama toko n enter)
+6. Isi orderan dan submit
+7. Exit program
+8. Jalankan selenium
+
+Terima kasih perhatiannya.
